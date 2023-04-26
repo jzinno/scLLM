@@ -1,6 +1,8 @@
 # scLLM: Single-Cell Large Language Models for Cell Type Prediction
 
-<img src='assets/icon.png' width='512'>
+<p align="center" width="100%">
+  <img src='assets/icon.png' width='33%'/>
+</p>
 
 scLLM is a single-cell transcriptomics tool that uses cell intrinsic rank ordered gene expression as sentences to train and use large language models (LLMs) for predicting cell types with high accuracy. It leverages the state-of-the-art (SOTA) architectures and the Hugging Face Transformers library to create a powerful and effective pipeline for annotating single-cell RNA-seq data.
 
