@@ -1,4 +1,4 @@
-# scLLM: Generative Single-Cell Large Language Models for Single-Cell Omics
+# scLLM: Generative Large Language Models for Single-Cell Omics
 
 <p align="center" width="100%">
   <img src='assets/icon.png' width='33%'/>
