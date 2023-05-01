@@ -9,8 +9,8 @@ scLLM is work in progress side project aiming to explore the development of gene
 ## ⚡️ Features
 
 - 🧪 Takes advantage of SOTA open source architectures such as GPT-2 and T5
-- 📝 Uses cell intrinsic rank ordered gene expression as sentences
-- 🎯 High accuracy cell type prediction
+- 📝 Uses cell intrinsic sentence representation
+- 🎯 High accuracy cell type generation
 - 🛠️ Easy-to-use API with customizable options
 - 🤗 Built on top of the Hugging Face Transformers library and PyTorch
 
@@ -32,6 +32,7 @@ pip install -r requirements.txt
 ## Upcoming
 
 - Rigorous testing
+- Preprint
 - Publish model(s) to Hugging Face Model Hub
 - Explore multiomics
 
