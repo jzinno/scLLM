@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our Contributing Guidelines before submitting a pull request or opening an issue.
+We welcome contributions! Please read our Contributing Guidelines (if they exist) before submitting a pull request or opening an issue.
 
 ## 📄 License
 
