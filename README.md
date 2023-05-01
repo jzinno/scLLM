@@ -6,6 +6,8 @@
 
 scLLM is work in progress side project aiming to explore the development of generative single-cell omics large language models. A proof of concept model, Tabula5apiens, was developed and uses cell intrinsic rank ordered gene expression as sentences to train and use large language models (LLMs) for generating cell types with high accuracy. We leverage the state-of-the-art (SOTA) architectures and the Hugging Face Transformers library to create a powerful and effective pipeline for analyzing single-cell RNA-seq data, with more advanced goals on the horizon, such as multiomics.
 
+This project is currently in development and is not yet ready for use. Please check back soon for updates!
+
 ## ⚡️ Features
 
 - 🧪 Takes advantage of SOTA open source architectures such as GPT-2 and T5
