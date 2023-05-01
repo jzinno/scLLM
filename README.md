@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ```
 
-## Upcoming
+## ⌛ Upcoming
 
 - Rigorous testing
 - Preprint
