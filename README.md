@@ -1,18 +1,24 @@
-# scLLM: Single-Cell Large Language Models for Cell Type Prediction
+# scLLM: Generative Single-Cell Large Language Models for Single-Cell Omics
 
 <p align="center" width="100%">
   <img src='assets/icon.png' width='33%'/>
 </p>
 
-scLLM is a single-cell transcriptomics tool that uses cell intrinsic rank ordered gene expression as sentences to train and use large language models (LLMs) for predicting cell types with high accuracy. It leverages the state-of-the-art (SOTA) architectures and the Hugging Face Transformers library to create a powerful and effective pipeline for annotating single-cell RNA-seq data.
+scLLM is work in progress side project aiming to explore the development of generative single-cell omics large language models. A proof of concept model, Tabula5apiens, was developed and uses cell intrinsic rank ordered gene expression as sentences to train and use large language models (LLMs) for generating cell types with high accuracy. We leverage the state-of-the-art (SOTA) architectures and the Hugging Face Transformers library to create a powerful and effective pipeline for analyzing single-cell RNA-seq data, with more advanced goals on the horizon, such as multiomics.
 
 ## ⚡️ Features
 
-- 🧪 Takes advantage of SOTA architectures such as GPT-2 and T5 for cell type prediction
+- 🧪 Takes advantage of SOTA open source architectures such as GPT-2 and T5
 - 📝 Uses cell intrinsic rank ordered gene expression as sentences
 - 🎯 High accuracy cell type prediction
 - 🛠️ Easy-to-use API with customizable options
 - 🤗 Built on top of the Hugging Face Transformers library and PyTorch
+
+## 📷 Example
+
+<p align="center" width="100%">
+  <img src='assets/example.png' width='100%'/>
+</p>
 
 ## 📦 Installation
 
@@ -22,6 +28,12 @@ cd scLLM
 pip install -r requirements.txt
 
 ```
+
+## Upcoming
+
+- Rigorous testing
+- Publish model(s) to Hugging Face Model Hub
+- Explore multiomics
 
 ## 🤝 Contributing
 
