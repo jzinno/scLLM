@@ -1,3 +1,4 @@
 notebooks/** linguist-vendored
 classifier/** linguist-vendored
 generative/** linguist-vendored
+topics/** linguist-vendored
