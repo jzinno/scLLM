@@ -5,3 +5,6 @@ flan-t5
 logs
 output
 icon_stuff
+topics/*html
+topics/*png
+*sqlite
