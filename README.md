@@ -37,7 +37,3 @@ pip install -r requirements.txt
 - Preprint
 - Publish model(s) to Hugging Face Model Hub
 - Explore multiomics
-
-## 🤝 Contributing
-
-We welcome contributions! Please read our Contributing Guidelines (if they exist) before submitting a pull request or opening an issue.
